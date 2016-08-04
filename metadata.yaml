@@ -1,0 +1,40 @@
+_repo: Hermann-and-Dorothea_1958
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Frothingham, Ellen
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '4725'
+    url: http://www.gutenberg.org/2009/agents/4725
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: Goethe's "novelette in verse" tells the story of a young girl who finds
+  love after fleeing the chaos of the French Revolution. This work influenced many
+  artists of the day, including Arthur Hugh Clough, whose The Bothie borrows heavily
+  from this work.
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 18th century'
+- !lcsh 'Epic poetry, German'
+- !lcsh 'Love poetry, German'
+- !lcc 'PT'
+- GITenberg
+title: Hermann and Dorothea
+url: http://www.gutenberg.org/ebooks/1958
