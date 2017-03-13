@@ -1,5 +1,5 @@
 _repo: Hermann-and-Dorothea_1958
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Frothingham, Ellen
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1902
     gutenberg_agent_id: '4725'
     url: http://www.gutenberg.org/2009/agents/4725
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -22,6 +25,8 @@ description: Goethe's "novelette in verse" tells the story of a young girl who f
   love after fleeing the chaos of the French Revolution. This work influenced many
   artists of the day, including Arthur Hugh Clough, whose The Bothie borrows heavily
   from this work.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1958#Hermann-and-Dorothea
 gutenberg_issued: '1999-11-01'
 gutenberg_type: Text
 identifiers:
